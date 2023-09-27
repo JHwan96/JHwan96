@@ -1,6 +1,6 @@
 - Hi👋 I'm @JHwan96
-- 🌱 I’m currently learning for "Data Engineering"
-- 😄 I'm interested in Data Engineering / Data Analysis/ Machine Learning / Deep Learning
+- 🌱 I’m currently learning for "Backend Engineer"
+- 😄 I'm interested in java / spring / Data Engineering / Data Analysis
 - 📫 How to reach me: "dlwnghks00@gmail.com"
 - Major in "Software"
 
