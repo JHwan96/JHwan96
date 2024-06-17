@@ -1,8 +1,7 @@
 - Hi👋 I'm @JHwan96
-- 🌱 I’m currently learning for "Backend Engineer"
-- 😄 I'm interested in java / spring / Data Engineering / Data Analysis
-- 📫 How to reach me: "dlwnghks00@gmail.com"
 - Major in "Software"
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHwan96)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JHwan96/JHwan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
